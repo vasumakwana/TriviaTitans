@@ -1,0 +1,21 @@
+[submodule "sdp2-module5"]
+	path = sdp2-module5
+	url = git@git.cs.dal.ca:raycha/csci5410-sdp2-module5.git
+[submodule "sdp2-module3"]
+	path = sdp2-module3
+	url = git@git.cs.dal.ca:ishan/sdp-s23-g2-module-3.git
+[submodule "sdp2-module1"]
+	path = sdp2-module1
+	url = git@git.cs.dal.ca:vmakwana/module-1.git
+[submodule "sdp2-module2"]
+	path = sdp2-module2
+	url = git@git.cs.dal.ca:vmakwana/module-2.git
+[submodule "sdp2-module7"]
+	path = sdp2-module7
+	url = git@git.cs.dal.ca:utsav/module-7.git
+[submodule "sdp2-module9"]
+	path = sdp2-module9
+	url = git@git.cs.dal.ca:utsav/module-9.git
+[submodule "csci5410-sdp2-module4"]
+	path = csci5410-sdp2-module4
+	url = git@git.cs.dal.ca:raycha/csci5410-sdp2-module4.git
